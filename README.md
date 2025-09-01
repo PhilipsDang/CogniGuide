@@ -9,3 +9,5 @@ This platform is designed for high school students to share valuable resources, 
 Personal Future Planning, a revolutionary section that utilizes AI Deep Learning Large Language Model technology to serve as a personal tutor for every student. This feature personalized future plans by analyzing existing academic backgrounds and offering tailored recommendations for majors and universities. Acting like a guidance counselor, the AI mentor is available 24/7 to create daily plans and provide real-time academic advice and resources, helping achieve your ultimate goals.
 
 URL: https://www.cogniguide-future.com/
+
+Since the project product has not been officially launched in the market according to legal procedures, this link is the original form of the website to protect the data privacy and legal rights of trial users.
